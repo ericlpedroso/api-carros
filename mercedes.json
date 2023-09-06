@@ -1,7 +1,42 @@
+https://www2.mercedes-benz.com.br/passengercars.html?group=all&subgroup=all.saloon&view=BODYTYPE
+https://www.bmw.com.br/pt/all-models.html
+https://www.porsche.com/brazil/pt/models/
+
 [
  {
-   "modelo"
-   "nome"
-   
+   "modelo": "Sedan",
+   "nome": "EQE",
+   "cv": 245,
+   "motor": "Elétrico" 
+ },
+ {
+   "modelo": "Sedan",
+   "nome": "EQS",
+   "cv": 658,
+   "motor": "Elétrico" 
+ },
+ {
+   "modelo": "Sedan",
+   "nome": "Classe A",
+   "cv": 320,
+   "motor": "Combustão" 
+ },
+ {
+   "modelo": "SUV",
+   "nome": "EQA",
+   "cv": 190,
+   "motor": "Elétrico" 
+ },
+ {
+   "modelo": "SUV",
+   "nome": "GLA",
+   "cv": 163,
+   "motor": "Combustão" 
+ },
+ {
+   "modelo": "SUV",
+   "nome": "GLC Coupé",
+   "cv": 258,
+   "motor": "Híbrido" 
  }
 ]
