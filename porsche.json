@@ -1,0 +1,32 @@
+[
+{
+"modelo": "Coupé" ,
+"nome": "718 Cayman GT4" ,
+"cv": "420cv",
+"motor": "combustão"
+},
+{
+"modelo": "Coupé" ,
+"nome": "911 GT3 RS" ,
+"cv": "525cv",
+"motor": "combustão"
+},
+{
+"modelo": "Sedan Esportivo" ,
+"nome": "Taycan Turbo S" ,
+"cv": "761cv",
+"motor": "elétrico"
+},
+{
+"modelo": "Sedan Esportivo" ,
+"nome": "Panamera Turbo S E-Hybrid" ,
+"cv": "700cv",
+"motor": "híbrido"
+},
+{
+"modelo": "SUV" ,
+"nome": "Cayenne S" ,
+"cv": "474cv",
+"motor": "combustão"
+}
+]
