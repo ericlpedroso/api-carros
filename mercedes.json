@@ -7,36 +7,42 @@ https://www.porsche.com/brazil/pt/models/
    "modelo": "Sedan",
    "nome": "EQE",
    "cv": 245,
-   "motor": "Elétrico" 
+   "motor": "Elétrico",
+   "foto":""
  },
  {
    "modelo": "Sedan",
    "nome": "EQS",
    "cv": 658,
-   "motor": "Elétrico" 
+   "motor": "Elétrico",
+"foto":""
  },
  {
    "modelo": "Sedan",
    "nome": "Classe A",
    "cv": 320,
-   "motor": "Combustão" 
+   "motor": "Combustão",
+"foto":""
  },
  {
    "modelo": "SUV",
    "nome": "EQA",
    "cv": 190,
-   "motor": "Elétrico" 
+   "motor": "Elétrico",
+"foto":""
  },
  {
    "modelo": "SUV",
    "nome": "GLA",
    "cv": 163,
-   "motor": "Combustão" 
+   "motor": "Combustão",
+"foto":""
  },
  {
    "modelo": "SUV",
    "nome": "GLC Coupé",
    "cv": 258,
-   "motor": "Híbrido" 
+   "motor": "Híbrido",
+"foto":""
  }
 ]
