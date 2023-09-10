@@ -3,72 +3,84 @@
 "modelo": "Coupé" ,
 "nome": "718 Cayman GT4" ,
 "cv": "420cv",
-"motor": "combustão"
+"motor": "combustão",
+"foto":""
 },
 {
 "modelo": "Coupé" ,
 "nome": "911 GT3 RS" ,
 "cv": "525cv",
-"motor": "combustão"
+"motor": "combustão",
+"foto":""
 },
 {
 "modelo": "Sedan Esportivo" ,
 "nome": "Taycan Turbo S" ,
 "cv": "761cv",
-"motor": "elétrico"
+"motor": "elétrico",
+"foto":""
 },
 {
 "modelo": "Sedan Esportivo" ,
 "nome": "Panamera Turbo S E-Hybrid" ,
 "cv": "700cv",
-"motor": "híbrido"
+"motor": "híbrido",
+"foto":""
 },
 {
 "modelo": "SUV" ,
 "nome": "Cayenne S" ,
 "cv": "474cv",
-"motor": "combustão"
+"motor": "combustão",
+"foto":""
 },
 {
 "modelo": "SUV" ,
 "nome": "Macan GTS" ,
 "cv": "440cv",
-"motor": "combustão"
+"motor": "combustão",
+"foto":""
 },
 {
 "modelo": "Cabriolet" ,
 "nome": "718 Spyder" ,
 "cv": "420cv",
-"motor": "combustão"
+"motor": "combustão",
+"foto":""
 },
 {
 "modelo": "Cabriolet" ,
 "nome": "718 Cayman GT4 RS" ,
 "cv": "500cv",
-"motor": "combustão"
+"motor": "combustão",
+"foto":""
 },
 {
 "modelo": "Targa" ,
 "nome": "911 Targa 4 GTS" ,
 "cv": "480cv",
-"motor": "combustão"
+"motor": "combustão",
+"foto":""
 },
 {
 "modelo": "Sport Turismo" ,
 "nome": "Panamera 4 E-Hybrid Sport Turismo" ,
 "cv": "330cv",
-"motor": "híbrido"
+"motor": "híbrido",
+"foto":""
 },
 {
 "modelo": "Cross Turismo" ,
 "nome": "Taycan 4S Cross Turismo" ,
 "cv": "571cv",
-"motor": "combustão"
+"motor": "combustão",
+"foto":""
 },
 {
 "modelo": "Cross Turismo" ,
 "nome": "Taycan 4 Cross Turismo" ,
 "cv": "476cv",
-"motor": "combustão"
+"motor": "combustão",
+"foto":""
 }
 ]
