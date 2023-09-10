@@ -28,5 +28,47 @@
 "nome": "Cayenne S" ,
 "cv": "474cv",
 "motor": "combustão"
+},
+{
+"modelo": "SUV" ,
+"nome": "Macan GTS" ,
+"cv": "440cv",
+"motor": "combustão"
+},
+{
+"modelo": "Cabriolet" ,
+"nome": "718 Spyder" ,
+"cv": "420cv",
+"motor": "combustão"
+},
+{
+"modelo": "Cabriolet" ,
+"nome": "718 Cayman GT4 RS" ,
+"cv": "500cv",
+"motor": "combustão"
+},
+{
+"modelo": "Targa" ,
+"nome": "911 Targa 4 GTS" ,
+"cv": "480cv",
+"motor": "combustão"
+},
+{
+"modelo": "Sport Turismo" ,
+"nome": "Panamera 4 E-Hybrid Sport Turismo" ,
+"cv": "330cv",
+"motor": "híbrido"
+},
+{
+"modelo": "Cross Turismo" ,
+"nome": "Taycan 4S Cross Turismo" ,
+"cv": "571cv",
+"motor": "combustão"
+},
+{
+"modelo": "Cross Turismo" ,
+"nome": "Taycan 4 Cross Turismo" ,
+"cv": "476cv",
+"motor": "combustão"
 }
 ]
