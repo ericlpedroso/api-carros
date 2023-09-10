@@ -1,48 +1,52 @@
 https://www2.mercedes-benz.com.br/passengercars.html?group=all&subgroup=all.saloon&view=BODYTYPE
-https://www.bmw.com.br/pt/all-models.html
-https://www.porsche.com/brazil/pt/models/
-
 [
  {
    "modelo": "Sedan",
    "nome": "EQE",
    "cv": 245,
    "motor": "Elétrico",
-   "foto":""
+   "foto":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJLGqBa9mj5T7UUDIYviCPIFAqLQJdM7fRGkF1c9F77fNKy0Vr"
  },
  {
    "modelo": "Sedan",
    "nome": "EQS",
    "cv": 658,
    "motor": "Elétrico",
-"foto":""
+   "foto":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQa4iziOTWwsCIKtS5ZVA_O2-_lft3TsZdAYAkFFWYuQwxoShEz"
  },
  {
    "modelo": "Sedan",
    "nome": "Classe A",
    "cv": 320,
    "motor": "Combustão",
-"foto":""
+   "foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlHKYtiDRRRogzISQ28UOwBTnBuwR2BcNK55Okd4w6waAufe5N"
  },
  {
    "modelo": "SUV",
    "nome": "EQA",
    "cv": 190,
    "motor": "Elétrico",
-"foto":""
+   "foto":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXaeAm_Q6YXpPjaWxULoiOs9wPZlau14qUt1H21NWVDDtXkdkX"
  },
  {
    "modelo": "SUV",
    "nome": "GLA",
    "cv": 163,
    "motor": "Combustão",
-"foto":""
+   "foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVJFgDlJiHUSSnIslOWpaCpP3-184K-yOQuCCHzXu_M4Swupzq"
  },
  {
    "modelo": "SUV",
    "nome": "GLC Coupé",
    "cv": 258,
    "motor": "Híbrido",
-"foto":""
+   "foto":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmSFBzNBOPC1qVwYZsjajJFvVeGJVFZ5hO5Vc-mos7zCWztmOl"
+ },
+ {
+   "modelo": "SUV",
+   "nome": "GLB",
+   "cv": 163,
+   "motor": "Combustão",
+   "foto":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVFAN0mNU8hMxfxjKLpmVHobtkxLDcqRt-gpTnSNd8VhV17ZZB"
  }
 ]
